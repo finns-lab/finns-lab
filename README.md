@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **finns-lab/finns-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey there!&animation=twinkling&type=egg&color=gradient&height=100theme=radical"/>
+</p>
+
+<a href="link">
+  <img height="50" src=""/>
+</a>
+
+<a href="https://tenor.com/view/roy-mustang-royai-riza-hawkeye-roy-mustang-and-riza-hawkeye-gif-13610615730386807931">Roy Mustang Royai Sticker</a>from <a href="https://tenor.com/search/roy+mustang-stickers">Roy Mustang Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">

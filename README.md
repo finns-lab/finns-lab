@@ -13,12 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey there!&animation=twinkling&type=egg&color=gradient&height=100theme=radical"/>
 </p>
 
-<a href="">
-  <img height="50" src="https://www.svgrepo.com/show/341616/archive-of-our-own.svg"/>
+<a href="" align="center">
+  <img src="https://cdn2.downdetector.com/static/uploads/logo/ao3-logo.png" alt="Logo of the Fanfiction Archive known as Archive Of Our Own" height=150 />
 </a>
 
-<img src="https://tenor.com/view/roy-mustang-royai-riza-hawkeye-roy-mustang-and-riza-hawkeye-gif-13610615730386807931" />
+<a href="">
+<img src="https://animesher.com/orig/0/53/538/5382/animesher.com_gif-fullmetal-alchemist-riza-hawkeye-538280.gif"/>
+</a>

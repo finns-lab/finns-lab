@@ -21,4 +21,6 @@ Here are some ideas to get you started:
   <img height="50" src=""/>
 </a>
 
-<a href="https://tenor.com/view/roy-mustang-royai-riza-hawkeye-roy-mustang-and-riza-hawkeye-gif-13610615730386807931">Roy Mustang Royai Sticker</a>from <a href="https://tenor.com/search/roy+mustang-stickers">Roy Mustang Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">
+<a>
+    <img src="https://tenor.com/view/roy-mustang-royai-riza-hawkeye-roy-mustang-and-riza-hawkeye-gif-13610615730386807931" />
+</a>

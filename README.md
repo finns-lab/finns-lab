@@ -17,10 +17,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?text=Hey there!&animation=twinkling&type=egg&color=gradient&height=100theme=radical"/>
 </p>
 
-<a href="link">
-  <img height="50" src=""/>
+<a href="">
+  <img height="50" src="https://www.svgrepo.com/show/341616/archive-of-our-own.svg"/>
 </a>
 
-<a>
-    <img src="https://tenor.com/view/roy-mustang-royai-riza-hawkeye-roy-mustang-and-riza-hawkeye-gif-13610615730386807931" />
-</a>
+<img src="https://tenor.com/view/roy-mustang-royai-riza-hawkeye-roy-mustang-and-riza-hawkeye-gif-13610615730386807931" />
